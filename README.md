@@ -1,2 +1,2 @@
 # html-portfolio
-Portfolio wich shows my ongoing journey to get a Web Developer
+Portfolio which shows my ongoing journey to get a Web Developer
